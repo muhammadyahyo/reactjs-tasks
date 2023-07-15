@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
 import Card from './card';
-import {data} from './mock'
+import {data} from '../mock'
 
 class App extends React.Component {
   render() {

@@ -1,0 +1,50 @@
+.nav{
+    background-color: #0D263B;
+    display: flex;
+	align-items: center;
+    justify-content: space-between;
+}
+.nav-logo{
+    width: 117px;
+    height: 36px;
+}
+.nav-ul{
+    display: flex;
+}
+.nav-ul{
+
+}
+.nav-li{
+    margin: 0 20px;
+}
+
+.nav-link{
+    color: #FFFFFF;
+}
+
+.nav-btn{
+    width: 120px;
+    height: 44px;
+    border: 1px solid white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.nav-input{
+    width: 829px;
+    height: 44px;
+    box-sizing: border-box;
+    background-image: url("./img/Vector.png");
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    font-size: 14px;
+    outline: none;
+    border-radius: 2px;
+    border: 1px solid #E6E9EC;
+}
+.nav-bottom{
+    margin-top: 10px ;
+}

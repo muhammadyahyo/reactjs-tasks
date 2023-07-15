@@ -1,13 +1,19 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+// import './index.css';
 import reportWebVitals from './reportWebVitals';
+// import Lesson3 from './3/App';
+// import Lesson4 from './4/App';
+// import Lesson5 from './5';
+import Houzing from './Houzing';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    {/* <Lesson3 /> */}
+    {/* <Lesson4/> */}
+    {/* <Lesson5/> */}
+    <Houzing/>
   </React.StrictMode>
 );
 
